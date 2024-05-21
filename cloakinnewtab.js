@@ -6,7 +6,7 @@
     var win = window.open();
 
     // Set the icon for the window
-    win.document.head.innerHTML += '<link rel="icon" href="lexialogo.png" type="image/png">';
+    win.document.head.innerHTML += '<link rel="icon" href="googledocslogo.png" type="image/png">';
 
     // Set the title of the window
     win.document.head.innerHTML += '<title>Google Docs</title>';
