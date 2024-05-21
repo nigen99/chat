@@ -29,4 +29,4 @@
 })();
 
 // Redirect to canvas
-window.location.href = "https://ksd.instructure.org";
+window.location.href = "https://ksd.instructure.com";
